@@ -41,7 +41,7 @@ html body div p {
   /*filter:alpha(opacity=60);*/ /* For IE8 and earlier */
 }*/
 
-#mc_embed_signup {
+body #mc_embed_signup {
   margin: 100px;
   background: none;
   clear: left;
@@ -54,7 +54,7 @@ html body div p {
 /* MailChimp Form Embed Code - Slim */
 
 
-#email-text {
+body #email-text {
   text-shadow: 1px 1px black;
   font-size: 110%;
 }
