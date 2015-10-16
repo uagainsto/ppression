@@ -22,7 +22,7 @@ html,body{
 html body h1 {
     color: floralwhite;
     font-family: 'Permanent Marker', sans-serif;
-    font-size: 450%;
+    font-size: 475%;
     text-shadow: 2px 2px black;
    
 }
@@ -55,6 +55,7 @@ body #mc_embed_signup {
 
 
 body #email-text {
+    text-align: center;
   text-shadow: 1px 1px black;
   font-size: 110%;
 }
@@ -117,6 +118,7 @@ body #mc_embed_signup .button:hover {
 #mc_embed_signup .button:active {
   top: 2px;
   border-bottom-width: 1px;
+  background-color: palegreen;
 }
 
 #mc_embed_signup .small-meta {
