@@ -89,7 +89,7 @@ html body div p {
   border-color: #799877;
 }
 
-#mc_embed_signup .button {
+body #mc_embed_signup .button {
   display: block;
   position: relative;
   width: 100% !important;
@@ -110,7 +110,7 @@ html body div p {
   vertical-align: top;
 }
 
-#mc_embed_signup .button:hover {
+body #mc_embed_signup .button:hover {
   background-color: #FF7F00;
 }
 
@@ -138,7 +138,7 @@ html body div p {
   color: mintcream;
   font-weight: italic;
 }
-#mc_embed_signup input.email {
+body #mc_embed_signup input.email {
   display: block;
   padding: 8px 4px;
   margin: 0 4% 10px 0;
